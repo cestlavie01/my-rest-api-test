@@ -1,4 +1,4 @@
-package com.example.demo.contoller;
+package com.example.demo.controller;
 
 import com.example.demo.dto.PersonDTO;
 import org.springframework.web.bind.annotation.PostMapping;
