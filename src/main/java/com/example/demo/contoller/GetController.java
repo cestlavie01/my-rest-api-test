@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 
 @RestController
-public class FirstController {
+public class GetController {
 
     @GetMapping(value = "/api/v1/name")
     public String name() {
